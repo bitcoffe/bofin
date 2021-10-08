@@ -7,7 +7,7 @@ setup(
     name="bofin",
     version="0.0.1",
     description="Python version for Bosonic and Fermionic hierarchical-equations-of-motion library for QuTiP",
-    long_description=open("README.md").read(),
+    long_description=open("README.md",encoding="UTF-8").read(),
     url="",
     author="Neill Lambert, Tarun Raheja, Shahnawaz Ahmed, Alexander Pitchford",
     author_email="nwlambert@gmail.com",
